@@ -10,7 +10,5 @@
 ----------
 
 <p align="center">
-![rails icon](http://www.francescognarra.com/images/rails-icon.png)
-{: height="36px" width="36px"}
-</p>
+<img src="http://www.francescognarra.com/images/rails-icon.png" alt="alt text" width="whatever" height="250px">
 
