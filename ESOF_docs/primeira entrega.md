@@ -1,8 +1,5 @@
 ## **Ruby on Rails!** ##
 <br/>
-<br/>
-<br/>
-----------
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ruby on Rails é uma framework para desenvolver back-end em web-applications que facilita o desenvolvimento de sites orientados a banco de dados(database-driven).<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rails é um projecto open-source e as aplicações desenvolvidas com esta framework seguem o padrão de MVC (Model-View-Controler).<br/>
