@@ -1,7 +1,8 @@
 <p align="center">
 	Ruby on Rails!
-===================
+
 </p>
+===================
 ----------
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ruby on Rails é uma framework para desenvolver back-end em web-applications que facilita o desenvolvimento de sites orientados a banco de dados(database-driven).<br/>
