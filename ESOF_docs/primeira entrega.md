@@ -9,5 +9,8 @@
 
 ----------
 
-<p align="center">![rails icon](http://www.francescognarra.com/images/rails-icon.png)
+<p align="center">
+![rails icon](http://www.francescognarra.com/images/rails-icon.png)
+{: height="36px" width="36px"}
+</p>
 
