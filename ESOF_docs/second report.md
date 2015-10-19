@@ -7,7 +7,7 @@ Relatório 2 - ESOF
 
 Elicitação
 -------------
-
+<br><br>
 &nbsp;&nbsp;&nbsp;Sendo o *rails* um projecto open-source já num estado avançado, com mais de 4000 contribuidores, os novos requisitos podem ser propostos de algumas maneiras diferentes, colaboradores podem fazer  *pull-requests* no *github*, para serem mais tarde analisados pela comunidade e pela *core team*, enviar e-mail directamente para a core team ou até mesmo reportar issues  no github.
 &nbsp;&nbsp;&nbsp;A *core-team* do *rails* não tem nenhuma lista de requisitos publicada, o que nos leva a acreditar que novos requisitos são só mesmo apenas através das validações de novas propostas.
 &nbsp;Para um *developer* contribuir para o projecto com novo código existem algumas regras a seguir :
