@@ -50,7 +50,8 @@ Validação
 ![enter image description here](http://i.imgur.com/SXtciqI.png)
 
 
-&nbsp;&nbsp;&nbsp;Como podemos concluir atráves de uma análise do github a comunidade está atenta e ajuda resolução destes issues mas por vezes com alguma lentidão, tendo alguns destes sido criados à mais de uma semana.<br>
+&nbsp;&nbsp;&nbsp;Como podemos concluir atráves de uma análise do github a comunidade está atenta e ajuda resolução destes issues mas por vezes com alguma lentidão, tendo alguns destes sido criados à mais de uma semana.
+<br><br>
 
 
 Use Case
@@ -62,6 +63,7 @@ Elaboramos um diagrama UML onde tentamos representar muito genericamente o que u
 
 ![enter image description here](http://i.imgur.com/uOBPHSf.png)
 
+<br><br>
 
 Conclusão
 ----------------------------
