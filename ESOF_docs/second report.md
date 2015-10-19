@@ -3,7 +3,6 @@ Relatório 2 - ESOF
 
 ## **Rails gestão de Requisitos** ##
 
-----------
 
 
 Elicitação
