@@ -36,7 +36,7 @@ Estas informações podem ser consultadas com mais detalhe neste link [Contribut
 Validação
 ------------------
 <br><br>
-&nbsp;&nbsp;&nbsp;Como já foi dito o Rails é um projecto onde qualquer pessoa pode contribuir.  Após a criação de um novo pull-request este é analisado pela comunidade, tendo o contribuidor de esperar por feedback em relação ao seu pedido para corrigir ou melhorar alguma coisa. Como todas as pessoas que trabalham para o rails são voluntarias este processo por vezes pode ser lento, eventualmente a nova contibuição será aprovada pela *core-team*.<br>
+&nbsp;&nbsp;&nbsp;Como já foi dito o Rails é um projecto onde qualquer pessoa pode contribuir.  Após a criação de um novo *pull-request* este é analisado pela comunidade, tendo o contribuidor de esperar por feedback em relação ao seu pedido para corrigir ou melhorar alguma coisa. Como todas as pessoas que trabalham para o rails são voluntarias este processo por vezes pode ser lento, eventualmente a nova contibuição será aprovada pela *core-team*.<br>
 &nbsp;&nbsp;&nbsp;Grande parte da validação é feita também pelos testes fornecidos pela comunidade do *rails*.<br>
 
 
